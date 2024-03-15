@@ -674,6 +674,7 @@ GameObject:
   - component: {fileID: 306532374}
   - component: {fileID: 306532373}
   - component: {fileID: 306532372}
+  - component: {fileID: 306532376}
   m_Layer: 5
   m_Name: PanelPortuguese
   m_TagString: Untagged
@@ -764,6 +765,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.06, y: 1.8}
   m_SizeDelta: {x: 110.8, y: 89.41}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &306532376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 306532371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &376092260
 GameObject:
   m_ObjectHideFlags: 0
@@ -943,6 +963,7 @@ GameObject:
   - component: {fileID: 382581061}
   - component: {fileID: 382581060}
   - component: {fileID: 382581059}
+  - component: {fileID: 382581063}
   m_Layer: 5
   m_Name: PanelSpanish
   m_TagString: Untagged
@@ -1033,6 +1054,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.06, y: 1.8}
   m_SizeDelta: {x: 110.8, y: 89.41}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &382581063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 382581058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &388154713
 GameObject:
   m_ObjectHideFlags: 0
@@ -2366,6 +2406,7 @@ GameObject:
   - component: {fileID: 1177047810}
   - component: {fileID: 1177047809}
   - component: {fileID: 1177047808}
+  - component: {fileID: 1177047812}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2457,6 +2498,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.16, y: 1.22}
   m_SizeDelta: {x: 110.8, y: 177}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1177047812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1177047807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &1249617917
 GameObject:
   m_ObjectHideFlags: 0
@@ -2998,6 +3058,7 @@ GameObject:
   - component: {fileID: 1349467947}
   - component: {fileID: 1349467946}
   - component: {fileID: 1349467945}
+  - component: {fileID: 1349467949}
   m_Layer: 5
   m_Name: Canvas (1)
   m_TagString: Untagged
@@ -3089,6 +3150,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.11, y: 1.22}
   m_SizeDelta: {x: 110.8, y: 177}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1349467949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349467944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &1359876176
 GameObject:
   m_ObjectHideFlags: 0
@@ -3101,6 +3181,7 @@ GameObject:
   - component: {fileID: 1359876179}
   - component: {fileID: 1359876178}
   - component: {fileID: 1359876177}
+  - component: {fileID: 1359876181}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -3191,6 +3272,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.162, y: 2.04}
   m_SizeDelta: {x: 110.8, y: 89.41}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1359876181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359876176}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &1389781719
 GameObject:
   m_ObjectHideFlags: 0
@@ -3419,6 +3519,7 @@ GameObject:
   - component: {fileID: 1541575696}
   - component: {fileID: 1541575695}
   - component: {fileID: 1541575694}
+  - component: {fileID: 1541575698}
   m_Layer: 5
   m_Name: Canvas (2)
   m_TagString: Untagged
@@ -3509,6 +3610,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.05, y: 1.04}
   m_SizeDelta: {x: 110.8, y: 177}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1541575698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1541575693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &1547638049
 GameObject:
   m_ObjectHideFlags: 0
@@ -4175,6 +4295,7 @@ GameObject:
   - component: {fileID: 1789002486}
   - component: {fileID: 1789002485}
   - component: {fileID: 1789002484}
+  - component: {fileID: 1789002488}
   m_Layer: 5
   m_Name: PanelEnglish
   m_TagString: Untagged
@@ -4265,6 +4386,25 @@ RectTransform:
   m_AnchoredPosition: {x: -4.06, y: 1.8}
   m_SizeDelta: {x: 110.8, y: 89.41}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1789002488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789002483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
 --- !u!1 &1835096100
 GameObject:
   m_ObjectHideFlags: 0
